@@ -1,4 +1,4 @@
-[![See Video](https://raw.githubusercontent.com/prajwalp111/Dog_on_desktop/main/assets/demo_preview.png)](https://drive.google.com/file/d/1gETpoxtaAzy1ympYuKl4NDCrPNnAe4st/view?usp=drive_link)
+[![Watch sample Video](https://raw.githubusercontent.com/prajwalp111/Dog_on_desktop/main/assets/demo_preview.png)](https://drive.google.com/file/d/1gETpoxtaAzy1ympYuKl4NDCrPNnAe4st/view?usp=drive_link)
 
 
 # 🐶 Desktop Dog for Windows

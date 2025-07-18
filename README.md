@@ -1,4 +1,5 @@
-![Demo]([dog_task_bar.mp4)](https://drive.google.com/file/d/1gETpoxtaAzy1ympYuKl4NDCrPNnAe4st/view?usp=drive_link))
+[![Demo](https://raw.githubusercontent.com/prajwalp111/Dog_on_desktop/main/assets/demo_preview.png)](https://drive.google.com/file/d/1gETpoxtaAzy1ympYuKl4NDCrPNnAe4st/view?usp=drive_link)
+
 
 # 🐶 Desktop Dog for Windows
 

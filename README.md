@@ -1,4 +1,4 @@
-![Demo]([assets/dog_running.gif](https://github.com/prajwalp111/Dog_on_desktop/blob/main/dog_task_bar.mp4))
+![Demo]([dog_task_bar.mp4))
 
 # 🐶 Desktop Dog for Windows
 
@@ -23,7 +23,7 @@ This little friend is inspired by the Google Dino but designed to **idle peacefu
 
 | Idle | Running |
 |------|---------|
-| ![idle-dog](assets/idle.gif) | ![run-dog](assets/run.gif) |
+| ![idle-dog](dog_idle.gif) | ![run-dog](dog_run.gif) |
 
 ---
 
@@ -31,9 +31,8 @@ This little friend is inspired by the Google Dino but designed to **idle peacefu
 
 ```
 desktop-dog/
-├── assets/
-│   ├── idle.gif
-│   └── run.gif
+├──idle.gif
+├── run.gif
 ├── desktop_dog.py
 ├── README.md
 ```

@@ -1,3 +1,5 @@
+![Demo]([assets/dog_running.gif](https://github.com/prajwalp111/Dog_on_desktop/blob/main/dog_task_bar.mp4))
+
 # 🐶 Desktop Dog for Windows
 
 An animated dog that sits just above your Windows taskbar and **runs whenever you move your mouse!**
